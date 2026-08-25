@@ -1,0 +1,5 @@
+print("what's your name?")
+name = input() 
+print("|--------------------------------------|")
+print("|  ATTENDEE: " + name.ljust(26) + "|")
+print("|                                      |")

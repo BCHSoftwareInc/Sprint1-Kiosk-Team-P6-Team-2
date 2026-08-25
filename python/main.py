@@ -10,5 +10,4 @@ def main():
     # SE: Use input() to capture Name, Company, Email, and Badge Tier
     # SE: Use print() to render the ASCII badge
 
-if __name__ == "__main__":
-    main()
+print(main)
