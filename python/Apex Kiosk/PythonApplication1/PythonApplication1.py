@@ -5,13 +5,9 @@ def main():
     
     # SE: Use input() to capture Name, Company, Email, and Badge Tier
     # SE: Use print() to render the ASCII badge
-<<<<<<< HEAD
 main()
 space = ""
-=======
 
-main(    )
->>>>>>> origin/main
 Name=input("Enter_Name ")
 Dept=input("Enter_Department/Organization ")
 Email=input("Enter_Email/Handle ")
